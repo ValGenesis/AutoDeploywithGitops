@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lfp9fctZeDpOuKuwAYSsfLe7217FvBWTC8Dh0SmLrKM=",
+  "Source": "AutodeploymentwithGitops",
+  "BasePath": "_content/AutodeploymentwithGitops",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
