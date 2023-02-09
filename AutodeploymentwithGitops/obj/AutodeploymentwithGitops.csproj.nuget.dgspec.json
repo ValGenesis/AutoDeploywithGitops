@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Drona\\Practice\\AutoDeploymentwithGitops\\ValGenesis\\AutoDeploywithGitops\\AutodeploymentwithGitops\\AutodeploymentwithGitops.csproj": {}
+    "D:\\Drona\\Practice\\ValGenesis\\AutoDeploywithGitops\\AutodeploymentwithGitops\\AutodeploymentwithGitops.csproj": {}
   },
   "projects": {
-    "D:\\Drona\\Practice\\AutoDeploymentwithGitops\\ValGenesis\\AutoDeploywithGitops\\AutodeploymentwithGitops\\AutodeploymentwithGitops.csproj": {
+    "D:\\Drona\\Practice\\ValGenesis\\AutoDeploywithGitops\\AutodeploymentwithGitops\\AutodeploymentwithGitops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Drona\\Practice\\AutoDeploymentwithGitops\\ValGenesis\\AutoDeploywithGitops\\AutodeploymentwithGitops\\AutodeploymentwithGitops.csproj",
+        "projectUniqueName": "D:\\Drona\\Practice\\ValGenesis\\AutoDeploywithGitops\\AutodeploymentwithGitops\\AutodeploymentwithGitops.csproj",
         "projectName": "AutodeploymentwithGitops",
-        "projectPath": "D:\\Drona\\Practice\\AutoDeploymentwithGitops\\ValGenesis\\AutoDeploywithGitops\\AutodeploymentwithGitops\\AutodeploymentwithGitops.csproj",
+        "projectPath": "D:\\Drona\\Practice\\ValGenesis\\AutoDeploywithGitops\\AutodeploymentwithGitops\\AutodeploymentwithGitops.csproj",
         "packagesPath": "C:\\Users\\abiramasundari\\.nuget\\packages\\",
-        "outputPath": "D:\\Drona\\Practice\\AutoDeploymentwithGitops\\ValGenesis\\AutoDeploywithGitops\\AutodeploymentwithGitops\\obj\\",
+        "outputPath": "D:\\Drona\\Practice\\ValGenesis\\AutoDeploywithGitops\\AutodeploymentwithGitops\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abiramasundari\\AppData\\Roaming\\NuGet\\NuGet.Config",

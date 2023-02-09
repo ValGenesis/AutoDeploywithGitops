@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bk4RhHTpd8IHliWCDpcpoQyOBmQxF78fx+JpL458kWOVvpM09wy5UOFys8oxKj6Z9OkqfsS3vpE1W+dG9KQw4Q==",
+  "dgSpecHash": "gxSq1q895UD9LGCe/MOKhaF7ho+cHyNXM2BbL+PGdn8i7d8v2g7RDa51Q7QFjQ+0ZP/CD+8YCVJFDbQgaG8XZw==",
   "success": true,
-  "projectFilePath": "D:\\Drona\\Practice\\AutoDeploymentwithGitops\\ValGenesis\\AutoDeploywithGitops\\AutodeploymentwithGitops\\AutodeploymentwithGitops.csproj",
+  "projectFilePath": "D:\\Drona\\Practice\\ValGenesis\\AutoDeploywithGitops\\AutodeploymentwithGitops\\AutodeploymentwithGitops.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abiramasundari\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
     "C:\\Users\\abiramasundari\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.9\\microsoft.aspnet.webapi.core.5.2.9.nupkg.sha512",
